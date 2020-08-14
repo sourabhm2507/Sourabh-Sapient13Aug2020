@@ -1,0 +1,12 @@
+com\sapient\football\footballapp\model\Team.class
+com\sapient\football\footballapp\service\APIService$3.class
+com\sapient\football\footballapp\service\APIService$4.class
+com\sapient\football\footballapp\model\Country.class
+com\sapient\football\footballapp\util\HTTPClient.class
+com\sapient\football\footballapp\model\League.class
+com\sapient\football\footballapp\service\APIService$2.class
+com\sapient\football\footballapp\model\Standings.class
+com\sapient\football\footballapp\model\Player.class
+com\sapient\football\footballapp\service\APIService$1.class
+com\sapient\football\footballapp\service\APIService.class
+com\sapient\football\footballapp\FootballAppApplication.class
